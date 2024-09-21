@@ -1,9 +1,15 @@
 import * as React from "react";
-// import * as ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import { StrictMode } from 'react'
+import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client'
-import './index.css'
+
+//import all of our pages
+import AboutMe from "../pages/AboutMe";
+import Contact from "../pages/Contact";
+import Error from "../pages/Error"
+import Home from "../pages/Home";
+import Portfolio from "../pages/Portfolio";
+import Resume from "../pages/Resume";
 
 //main.jsx is the container for our router and it's sole purpose is that and that alone
 const router = createBrowserRouter([
@@ -26,6 +32,10 @@ const router = createBrowserRouter([
   {
     path: "/resume",
     element: <Resume/>
+  },
+  {
+    path: "/error",
+    element: <Error/>
   }
 ]);
 
