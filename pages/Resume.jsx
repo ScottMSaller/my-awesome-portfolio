@@ -1,7 +1,7 @@
 function Resume() {
     return (
         <div>
-            <h1>Success!</h1>
+            <h1>Landed on the Resume page!</h1>
         </div>
     )
 }
