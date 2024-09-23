@@ -8,6 +8,7 @@ import Resume from "../pages/Resume";
 
 import { createBrowserRouter, RouterProvider, BrowserRouter, Router } from "react-router-dom";
 import NavigationBar from "../components/NavigationBar";
+import Footer from "../components/Footer"
 
 
 const router = createBrowserRouter([
@@ -43,6 +44,7 @@ function App() {
         <>
         <NavigationBar/>
         <RouterProvider router={router} />
+        <Footer/>
         </>
     )
 }
