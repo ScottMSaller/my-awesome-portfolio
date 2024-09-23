@@ -1,0 +1,18 @@
+@media screen and (max-width: 850px) {
+    img{
+        max-width: 95%;
+    }
+}
+@media screen and (min-width: 851px) {
+    img{
+        min-width:60%;
+        max-width: 60%;
+        
+    }
+}
+img{
+    border:5px solid #875C74;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #A790A5;
+}
