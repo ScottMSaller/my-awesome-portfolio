@@ -10,7 +10,7 @@ function AboutMe() {
                 <img className="about-photos" alt="My dad's car after I decided that it was time I do big boy things!" src="../assets/burning-car.png"></img>
                 <li className="lead mb-4">I figured out how to jumpstart a car when I was nine years old. Thanks, Google!</li>
                 <img className="about-photos" alt="An overhead photo of a marsh near my old house." src="../assets/drone-photo.png"></img>
-                <li className="lead mb-4">I have a commercial drone license that allows me to operate a drone in a commercial setting.</li>
+                <li className="lead mb-4">I have a commercial drone license that allows me to operate a drone in a commercial setting. And yes, I did take that photo!</li>
                 <img className="about-photos" alt="a man with a very bald head and a knack for doing the unsavory for a living" src="../assets/Agent_47.png"></img>
                 <li className="lead mb-4">My favorite color is sage green, and my favorite number is 47 after the video game series Hitman.</li>
                 
