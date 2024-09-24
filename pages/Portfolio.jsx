@@ -41,7 +41,7 @@ function Portfolio() {
             />
                        
             <Project 
-            imageSrc={"../assets/portfolio.png"} 
+            imageSrc={"https://imgur.com/mwM281f"} 
             title={"My Awesome Portfolio"}
             techUsed={"React, JavaScript, Bootstrap, CSS"} 
             repoLink={"https://github.com/ScottMSaller/my-awesome-portfolio"}
