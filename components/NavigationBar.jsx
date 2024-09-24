@@ -9,19 +9,19 @@ function NavigationBar() {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                     <li className="nav-item">
-                       <a className="nav-link" href="/">Home</a> 
+                       <a className="nav-link" href="">Home</a> 
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link"  href="/about-me">About Me</a>
+                        <a className="nav-link"  href="about-me">About Me</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="/contact">Contact</a> 
+                        <a className="nav-link" href="contact">Contact</a> 
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="/resume">Resume</a>
+                        <a className="nav-link" href="resume">Resume</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="/portfolio">Portfolio</a>
+                        <a className="nav-link" href="portfolio">Portfolio</a>
                     </li>
                 </ul>
                 </div>
